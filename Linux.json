@@ -1,0 +1,5 @@
+{    
+    	"sessionType": "PORT_FORWARDING",
+	"targetResourceId": "ocid1.instance.oc1.sa-saopaulo-1.antxeljrhrg4gmyczulpqnisp4xchuwujvtjfdolndpuq",
+	"targetResourcePort": 22
+}

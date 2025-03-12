@@ -1,0 +1,29 @@
+{
+  "data": {
+    "bastion-id": "ocid1.bastion.oc1.sa-saopaulo-1.amaaaaaahrg4gmya66ms5kxj6hqvbvrok3epbjsa",
+    "bastion-name": "Bastion032025",
+    "bastion-public-host-key-info": null,
+    "bastion-user-name": null,
+    "display-name": "Linux",
+    "id": "ocid1.bastionsession.oc1.sa-saopaulo-1.amaaaaaahrg4gmya5w6se3hvkpr3gmke2odi47iz7wtrh5bk4eey5q",
+    "key-details": {
+      "public-key-content": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABA5sg/Lemr3QsLyHAdC2OqxA9vMjObgSjAXQnHk7B1PEkX0xZ+UMP1mOZ1y/eZG4ppkhcrPKfU1In9X0+NassTQwmrGp20Qxf8LhBPQ2tJ5d0BQGeC6e6cppECJa0txms7J5jlKvvpUOxybtt8guyeJsTDEQzk4z+erQU/0VTsNadmASr7MGw5a3RFsNqcxKWZLNO86jJ5lmBP0FPvJOcNRfD/+9oy7aFe1+HFRAEm2H3dhY41cAZNHJEJiUzOiRkBfuSqwNkbyKat2Ge2ZLRypbWOvENJ7SHCPb fernando@SPON010125711\n"
+    },
+    "key-type": "PUB",
+    "lifecycle-details": null,
+    "lifecycle-state": "CREATING",
+    "session-ttl-in-seconds": 10800,
+    "ssh-metadata": null,
+    "target-resource-details": {
+      "session-type": "PORT_FORWARDING",
+      "target-resource-display-name": "Linux",
+      "target-resource-fqdn": null,
+      "target-resource-id": "ocid1.instance.oc1.sa-saopaulo-1.antxeljrhrg4gmyczulf72tdspqnisp4xchuwujvtjfdolndpuq",
+      "target-resource-port": 22,
+      "target-resource-private-ip-address": "10.0.1.174"
+    },
+    "time-created": "2025-03-12T12:16:35.390000+00:00",
+    "time-updated": "2025-03-12T12:16:35.390000+00:00"
+  },
+  "opc-work-request-id": "ocid1.bastionworkrequest.oc1.sa-saopaulo-1.amaaaaaahrg4gmyzu7x2bbf5bd23ujdlz7ayqfzf5jzdtidq"
+}

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "bastion-id": "ocid1.bastion.oc1.sa-saopaulo-1.amaaaaaahrg4gmyafpasta6zhiain7q35dho3dn5miseeayq2a",
+    "bastion-name": "BastionMarketpriv",
+    "bastion-public-host-key-info": null,
+    "bastion-user-name": null,
+    "display-name": "Marketing-instance01",
+    "id": "ocid1.bastionsession.oc1.sa-saopaulo-1.amaaaaaahrg4gmyaoy2yczcpyd7tomnyrkbfmpi4hflas6ngra",
+    "key-details": {
+      "public-key-content": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCEc5FdhSEay3NkvrKjPBMCnKcI92Kdp8RIijRLccnVhq9HTc3LHK+uCbw5AdJbJCvY8FS3AejxzR/IMrMyUZkVRlRQmpQmqYmNbeH5ZmIAk2x0fKNQpPmz7h8QGZowLPbNQePunNtHHlyt+MjdO+vp8E4W5KftHlHp9xzsok6PJk/5wAo/NaWxB8UqLbfIci0SHM+ZHufo6kF2C0aJG2jgeLjWZwi42WRdGYL/T9DZLvnhItmPz3tGMksXj5HtacYk5wrI6gX98WmoOrySrif3aO8g8znR5xJWN6O07iAP+iemOjVEoiGifJzUfJDU8zslTtbWh fernando@SPON010125711\n"
+    },
+    "key-type": "PUB",
+    "lifecycle-details": null,
+    "lifecycle-state": "CREATING",
+    "session-ttl-in-seconds": 10800,
+    "ssh-metadata": null,
+    "target-resource-details": {
+      "session-type": "PORT_FORWARDING",
+      "target-resource-display-name": "instance-01",
+      "target-resource-fqdn": null,
+      "target-resource-id": "ocid1.instance.oc1.sa-saopaulo-1.antxeljrhrgbm6pjdkzdlmb2oywk6cilg3wsgdeyypij55ud3q4kq",
+      "target-resource-port": 22,
+      "target-resource-private-ip-address": "10.0.1.16"
+    },
+    "time-created": "2025-03-12T11:59:15.654000+00:00",
+    "time-updated": "2025-03-12T11:59:15.654000+00:00"
+  },
+  "opc-work-request-id": "ocid1.bastionworkrequest.oc1.sa-saopaulo-1.amaaaaaahrg4gmminciyep7gja6ibtlkcnkjjgfbv6dmcbwzsw6a"
+}

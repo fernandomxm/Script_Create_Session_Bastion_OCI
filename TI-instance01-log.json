@@ -1,0 +1,29 @@
+{
+  "data": {
+    "bastion-id": "ocid1.bastion.oc1.sa-saopaulo-1.amaaaaaahrg4gmyahbbt3ucfpme76qlg72dfz6bch357lq",
+    "bastion-name": "Bastion032025priv",
+    "bastion-public-host-key-info": null,
+    "bastion-user-name": null,
+    "display-name": "Feedz-instance01",
+    "id": "ocid1.bastionsession.oc1.sa-saopaulo-1.amaaaaaahrg4gmyajcusqshqm6zdf3wfil7y2fxcvkxmjq",
+    "key-details": {
+      "public-key-content": "ssh-rsa AAAAB3NzaC1ycgSjAXQnHk7B1PEkX0xZ+UMP1mOZ1y/eZG4psTDEQzk4z+erQU/0VTsNadmASr7MGw5a3RFsNqcxKWZLNO86jJ5lmBP0FPvJOcNRfD/+9oy7aFe1+HFRAEm2H3dhY41cAZNHJEJiUzOiRkBfuSqwNkbyKat2Ge2ZLRypbWOvENJ7SHCPb fernando@SPON010125711\n"
+    },
+    "key-type": "PUB",
+    "lifecycle-details": null,
+    "lifecycle-state": "CREATING",
+    "session-ttl-in-seconds": 10800,
+    "ssh-metadata": null,
+    "target-resource-details": {
+      "session-type": "PORT_FORWARDING",
+      "target-resource-display-name": "instance-01",
+      "target-resource-fqdn": null,
+      "target-resource-id": "ocid1.instance.oc1.sa-saopaulo-1.antxeljrhrg4gcomxxjdnead4gxfq",
+      "target-resource-port": 22,
+      "target-resource-private-ip-address": "10.0.1.239"
+    },
+    "time-created": "2025-03-12T12:00:47.772000+00:00",
+    "time-updated": "2025-03-12T12:00:47.772000+00:00"
+  },
+  "opc-work-request-id": "ocid1.bastionworkrequest.oc1.sa-saopaulo-1.amaaaaaahrg4gmykbu5i6zkw45vj7lisa2yxwwduhq"
+}
