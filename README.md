@@ -1,0 +1,2 @@
+# Script_Create_Session_Bastion_OCI
+Script_Create_Session_Bastion_OCI
